@@ -16,4 +16,5 @@ int print_aphabet_x10(void)
 		}
 		_putchar('\n');
 	}
+	return (0);
 }
